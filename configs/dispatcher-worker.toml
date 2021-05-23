@@ -1,0 +1,8 @@
+debug = true
+
+[log]
+disable_json = false 
+file = "stdout" # stdout 或檔案路徑
+
+[redis]
+addr = "127.0.0.1:6379"
